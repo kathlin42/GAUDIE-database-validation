@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #ignore folder
-/_scripts_ressources
+/pug_2023
